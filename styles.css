@@ -92,7 +92,7 @@ h3 {
 .banner {
     position: relative;
     height: 100vh;
-    background-image: url('image/xoài 1.jpg');
+    background-image: url("image/xoài 1.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
